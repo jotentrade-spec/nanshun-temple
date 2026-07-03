@@ -1,0 +1,25 @@
+{
+  "name": "財團法人嘉邑市南順宮-中油媽",
+  "short_name": "南順宮",
+  "description": "南順宮天上聖母信仰源流、參拜資訊、近期動態與相片集。",
+  "lang": "zh-Hant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf1",
+  "theme_color": "#8b1e1e",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
